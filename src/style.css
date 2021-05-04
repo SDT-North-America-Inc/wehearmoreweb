@@ -54,7 +54,7 @@
   --fontSize-5: 2.074rem;
   --fontSize-6: 2.488rem;
   --fontSize-7: 2.986rem;
-  --color-primary: #005b99;
+  --color-primary: #f4010b;
   --color-text: #2e353f;
   --color-text-light: #4f5969;
   --color-heading: #1a202c;
@@ -114,7 +114,7 @@ h4,
 h5,
 h6 {
   font-weight: var(--fontWeight-bold);
-  color: var(--color-heading);
+  color: var(--color-heading-black);
 }
 
 h1 {
@@ -330,4 +330,9 @@ a:focus {
   ol {
     list-style-position: inside;
   }
+}
+
+.logo {
+  margin-top: 20px;
+  margin-bottom: 20px;
 }

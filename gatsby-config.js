@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `We Hear More - Showcasing Ultrasonic Excellence`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Allan Rienstra.`,
+      summary: `I am the director of business development for SDT, the world's favourite ultrasound company. Our mission is to partner with clients to help them gain a better understanding about the health of their assets and the reliability of their organization.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `A blog that showcases ultrasonic excellence.`,
+    siteUrl: `https://wehearmore.com`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `allanrienstrasdt`,
     },
   },
   plugins: [
@@ -112,11 +112,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `We Hear More`,
+        short_name: `We Hear More`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#f2000f`,
         display: `minimal-ui`,
         icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
       },
