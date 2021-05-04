@@ -31,6 +31,7 @@ const Bio = () => {
   const social = data.site.siteMetadata?.social
 
   return (
+    <>
     <div className="bio">
       <StaticImage
         className="bio-avatar"
@@ -52,6 +53,15 @@ const Bio = () => {
         </p>
       )}
     </div>
+    <form name="Contact Form" method="POST" data-netlify="true" netlify>
+              <input type="hidden" name="wehearmoresignup" value="Contact Form" />
+              <div>
+                <label>Enter Your Email to Subscribe:</label>
+                <input type="email" name="email" />
+                <button type="submit">Register to Hear More</button>
+              </div>
+            </form>
+            </>
   )
 }
 
