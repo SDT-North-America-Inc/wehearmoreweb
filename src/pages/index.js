@@ -32,6 +32,15 @@ const BlogIndex = ({ data, location }) => {
           const title = post.frontmatter.title || post.fields.slug
 
           return (
+            <>
+            <form name="Contact Form" method="POST" data-netlify="true" netlify>
+              <input type="hidden" name="wehearmoresignup" value="Contact Form" />
+              <div>
+                <label>Enter Your Email to Subscribe:</label>
+                <input type="email" name="email" />
+                <button type="submit">Register to Hear More</button>
+              </div>
+            </form>
             <li key={post.fields.slug}>
               <article
                 className="post-list-item"
@@ -56,6 +65,7 @@ const BlogIndex = ({ data, location }) => {
                 </section>
               </article>
             </li>
+            </>
           )
         })}
       </ol>
