@@ -21,7 +21,7 @@ const BlogPostTemplate = ({ data, location }) => {
         itemScope
         itemType="http://schema.org/Article"
       >
-      <a style="margin-bottom: 30px" href="https://wehearmore.com">Register Here to Recieve Newsletter in Your Inbox Once Monthly</a>
+      <a className="linkTop" href="https://wehearmore.com">Register Here to Recieve Newsletter in Your Inbox Once Monthly</a>
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
           <p>{post.frontmatter.date}</p>
