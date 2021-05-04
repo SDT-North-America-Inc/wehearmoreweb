@@ -33,7 +33,7 @@ const Layout = ({ location, title, children }) => {
         layout="fixed"
         formats={["AUTO", "WEBP", "AVIF"]}
         src="../images/wehearmore_logo.png"
-        height={100}
+        width={300}
         quality={95}
         alt="We Hear More - Showcasing Ultrasonic Excellence"
       />
