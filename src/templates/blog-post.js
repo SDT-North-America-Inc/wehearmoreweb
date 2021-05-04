@@ -21,8 +21,8 @@ const BlogPostTemplate = ({ data, location }) => {
         itemScope
         itemType="http://schema.org/Article"
       >
-      <form name="Contact Form" method="POST" data-netlify="true" netlify>
-              <input type="hidden" name="wehearmoresignuppost" value="Contact Form Post" />
+      <form name="Contact Form Post" method="POST" data-netlify="true" netlify>
+              <input type="hidden" name="wehearmoresignup" value="Contact Form" />
               <div>
                 <label>Enter Your Email to Subscribe:</label>
                 <input type="email" name="email" />
