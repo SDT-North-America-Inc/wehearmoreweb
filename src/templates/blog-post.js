@@ -22,7 +22,7 @@ const BlogPostTemplate = ({ data, location }) => {
         itemType="http://schema.org/Article"
       >
       <form name="Contact Form" method="POST" data-netlify="true" netlify>
-              <input type="hidden" name="wehearmoresignup" value="Contact Form" />
+              <input type="hidden" name="wehearmoresignuppost" value="Contact Form Post" />
               <div>
                 <label>Enter Your Email to Subscribe:</label>
                 <input type="email" name="email" />
