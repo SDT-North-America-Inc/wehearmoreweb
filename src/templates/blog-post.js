@@ -21,14 +21,7 @@ const BlogPostTemplate = ({ data, location }) => {
         itemScope
         itemType="http://schema.org/Article"
       >
-      <form name="Contact Form Post" method="POST" data-netlify="true" netlify>
-              <input type="hidden" name="wehearmoresignup" value="Contact Form" />
-              <div>
-                <label>Enter Your Email to Subscribe:</label>
-                <input type="email" name="email" />
-                <button type="submit">Register to Hear More</button>
-              </div>
-            </form>
+      <a href="https://wehearmore.com">Register Here to Recieve Newltter in You Inbox Once Monthly</a>
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
           <p>{post.frontmatter.date}</p>
