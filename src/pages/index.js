@@ -25,7 +25,7 @@ const BlogIndex = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="We Hear More - by Allan Rienstra" />
+      <SEO title="We Hear More - Showcasing Ultrasonic Excellence" />
       <Bio />
       <ol style={{ listStyle: `none` }}>
         {posts.map(post => {

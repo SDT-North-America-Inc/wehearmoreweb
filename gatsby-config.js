@@ -6,7 +6,7 @@ module.exports = {
       summary: `I am the director of business development for SDT, the world's favourite ultrasound company. Our mission is to partner with clients to help them gain a better understanding about the health of their assets and the reliability of their organization.`,
     },
     description: `A blog that showcases ultrasonic excellence.`,
-    image: "src/images/feature.png",
+    image: "/images/feature.png",
     siteUrl: `https://wehearmore.com`,
     social: {
       twitter: `allanrienstrasdt`,
