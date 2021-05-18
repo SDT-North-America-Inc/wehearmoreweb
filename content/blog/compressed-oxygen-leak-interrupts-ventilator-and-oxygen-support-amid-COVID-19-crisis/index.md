@@ -5,7 +5,7 @@ description: How did a reliability failure at a hospital in Nashik, India result
 ---
 
 
-## Compressed Oxygen Leak Interrupts Ventilator and Oxygen Support Amid COVID-19 Crisis
+## How did a reliability failure at a hospital in Nashik, India result in the deaths of twenty-four critical COVID-19 patients? 
 
 On Wednesday, April 21st, twenty-four critical COVID-19 patients at Dr. Zakir Hussain Hospital in Nashik, Maharashtra died when a valve malfunction disrupted one of the hospital’s main oxygen supply tanks. Of the 157 COVID-19 positive patients at Dr. Zakir Hussain Hospital, 61 were in critical condition, requiring additional oxygen and ventilator support. 
 
