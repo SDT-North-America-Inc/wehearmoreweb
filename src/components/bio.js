@@ -37,7 +37,7 @@ const Bio = () => {
         className="bio-avatar"
         layout="fixed"
         formats={["AUTO", "WEBP", "AVIF"]}
-        src="../images/allan-rienstra.jpeg"
+        src="../images/sdt-profile.png"
         width={50}
         height={50}
         quality={95}
@@ -45,10 +45,10 @@ const Bio = () => {
       />
       {author?.name && (
         <p>
-          Written by <strong>{author.name}</strong> {author?.summary || null}
+        <a href="https://sdtultrasound.com"><strong>{author.name}</strong></a><br></br>{author?.summary || null}
           {` `}
-          <a href={`https://linkedin.com/in/${social?.twitter || ``}`}>
-            Connect with me on LinkedIn
+          <a href="https://www.linkedin.com/company/sdt-international-sa-nv">
+            Follow SDT Ultrasound Solutions on LinkedIn
           </a>
         </p>
       )}

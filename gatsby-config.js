@@ -2,14 +2,14 @@ module.exports = {
   siteMetadata: {
     title: `We Hear More - Showcasing Ultrasonic Excellence`,
     author: {
-      name: `Allan Rienstra.`,
-      summary: `I am the director of business development for SDT, the world's favourite ultrasound company. Our mission is to partner with clients to help them gain a better understanding about the health of their assets and the reliability of their organization.`,
+      name: `SDT Ultrasound Solutions`,
+      summary: `SDT provides ultrasound solutions that help our customers gain a better understanding about the health of their factory. We help them predict failures, control energy costs, and improve product quality while contributing to the overall reliability of their assets.`,
     },
     description: `A blog that showcases ultrasonic excellence.`,
     image: "/images/feature.png",
     siteUrl: `https://wehearmore.com`,
     social: {
-      twitter: `allanrienstrasdt`,
+      twitter: `sdt-international-sa-nv`,
     },
   },
   plugins: [
