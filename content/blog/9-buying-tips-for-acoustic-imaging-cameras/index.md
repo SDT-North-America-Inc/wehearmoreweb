@@ -1,7 +1,7 @@
 ---
 title: 9 Buying Tips for Acoustic Imaging Cameras
 date: "2021-09-13T23:40:32.169Z"
-description: How did a reliability failure at a hospital in Nashik, India result in the deaths of twenty-four critical COVID-19 patients? 
+description: Considering an Acoustic Imaging Camera? Read These Buying Tips First.
 ---
 
 ## Considering an Acoustic Imaging Camera? Read These Buying Tips First
