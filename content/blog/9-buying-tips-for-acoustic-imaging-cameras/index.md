@@ -155,3 +155,6 @@ What a wonderful experience it is to venture into a noisy production area with y
 Perhaps the most overlooked buying tip is one rarely – if ever – written on a product spec sheet. Yet the single most important discussion in any buying decision must include the solutions provider. Isn’t who you buy from as critical to you as the product you purchase? 
 
 Today, the number of pure ultrasound companies actively engaged in innovating twenty-first century solutions are few; and only one of them offers an ultrasound imaging camera. The wise choice to partner with nearly 50 years of ultrasound experience, a globally positioned sales and support channel with after-sales service teams on four continents, and a knowledge base responsible for producing most of the training materials written about the topic of ultrasound, will pay welcome dividends when the time comes to implement and train your inspectors on this exciting condition monitoring technology. 
+
+
+[Download the PDF](./9_buying_tips_for_acoustic_imaging Cameras.pdf)
